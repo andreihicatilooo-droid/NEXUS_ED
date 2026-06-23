@@ -1,0 +1,6 @@
+{
+  "name": "Creative Nexus Pro",
+  "description": "Интеллектуальная среда для деконструкции эстетических кодов и синтеза коммерческих активов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
